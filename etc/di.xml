@@ -4,7 +4,7 @@
     <type name="Magento\Framework\Console\CommandListInterface">
         <arguments>
             <argument name="commands" xsi:type="array">
-                <item name="wesleydeveloper_developer_serve" xsi:type="object">Wesleydeveloper\Developer\Console\Serve</item>
+                <item name="wesleydeveloper_magedeveloper_serve" xsi:type="object">Wesleydeveloper\MageDeveloper\Console\Serve</item>
             </argument>
         </arguments>
     </type>

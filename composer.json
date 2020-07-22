@@ -1,5 +1,5 @@
 {
-  "name": "wesleydeveloper/developer",
+  "name": "wesleydeveloper/mage-developer",
   "version": "1.0.0",
   "description": "N/A",
   "type": "magento2-module",
@@ -7,14 +7,14 @@
     "magento/framework": "*"
   },
   "license": [
-    "Open Software License (OSL)"
+    "MIT"
   ],
   "autoload": {
     "files": [
       "registration.php"
     ],
     "psr-4": {
-      "Wesleydeveloper\\Developer\\": ""
+      "Wesleydeveloper\\MageDeveloper\\": ""
     }
   }
 }
